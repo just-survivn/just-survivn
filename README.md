@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently studying **CISSP, GPEN, OSCP**
 
+- 👯 I’m looking to collaborate on **projects in the Ukraine**
+
+- 🤝 I’m looking for help with **projects in the Ukraine**
+
+- 📝 I regularly write articles on OSINT, HUMINT, SIGINT and other intelligence gathering techniques
+
 - ⚡ Fun fact **I have a dog that questions my life choices.**
 
 <h3 align="left">Connect with me:</h3>
