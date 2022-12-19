@@ -1,7 +1,8 @@
-[![MasterHead](https://i.gifer.com/9kGQ.gif)](https://intellizen.org)
+![Banner](banner.gif)
+
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">An Intelligence Analyst & Penetration Tester</h3>
-<img src="https://i.gifer.com/9kGQ.gif" alt="hacking" width="400" align="right" />
+<img src="right.gif" alt="data" width="400" align="right" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just-survivn" alt="just-survivn" /></a> </p>
 
 - 🔭 I’m currently working on **projects in the Ukraine**
@@ -24,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-survivn&show_icons=true&locale=en" alt="just-survivn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-survivn&" alt="just-survivn" /></p>
-
-
