@@ -1,4 +1,4 @@
-<img src="right.gif" alt="data" width="1000" align="center" />
+<img src="banner.gif" alt="data" width="1000" height="350" align="center" />
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">An Intelligence Analyst & Penetration Tester</h3>
 <img src="right.gif" alt="data" width="400" align="right" />
