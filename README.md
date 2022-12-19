@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">An Intelligence Analyst & Penetration Tester</h3>
 <img src="right.gif" alt="data" width="400" align="right" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just-survivn" alt="just-survivn" /></a> </p>
 
 - 🔭 I’m currently working on **projects in the Ukraine**
 
